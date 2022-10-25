@@ -9,7 +9,7 @@
     },
     {
       "id": "03",
-      "name": "SQL Server"
+      "name": "Server"
     },
     {
       "id": "04",
@@ -20,7 +20,11 @@
       "name": "Data Analysis"
     },
     {
-      "id": "08",
+      "id": "06",
+      "name": "Networking"
+    },
+    {
+      "id": "07",
       "name": "All Course"
     }
   ]

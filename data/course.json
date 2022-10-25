@@ -1,0 +1,86 @@
+[
+    {
+      "id": "01",
+      "course_name": "Artificial Intelligence",
+      "price": 232,
+      "image": "https://images.pexels.com/photos/8386434/pexels-photo-8386434.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "obtain": 4040,
+      "instructor": [
+        {
+          "name": "Olivia Gallegos",
+          "img": "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        }
+      ],
+      "about": "Enim aute ullamco in amet aliquip. Consequat eu ea elit irure tempor sit cupidatat voluptate deserunt mollit ut fugiat eu deserunt. In sit fugiat laborum sint. In laboris exercitation eu magna Lorem consectetur nulla nisi tempor nulla voluptate amet. Cupidatat veniam elit adipisicing laborum labore exercitation consectetur cupidatat magna enim sit exercitation id officia.\r\n"
+    },
+    {
+      "id": "02",
+      "course_name": "Robotics",
+      "price": 652,
+      "image": "https://images.pexels.com/photos/3912950/pexels-photo-3912950.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "obtain": 2998,
+      "instructor": [
+        {
+          "name": "Santos Bright",
+          "img": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        }
+      ],
+      "about": "Qui laboris est aliquip pariatur sit aliquip tempor. Proident proident velit aute dolore enim. Irure voluptate reprehenderit aliquip et commodo cillum ut. Nulla sint sunt incididunt cupidatat ad Lorem quis commodo cupidatat voluptate. Qui exercitation excepteur ut irure quis.\r\n"
+    },
+    {
+      "id": "03",
+      "course_name": "Server",
+      "price": 683,
+      "image": "https://images.pexels.com/photos/1181354/pexels-photo-1181354.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "obtain": 3013,
+      "instructor": [
+        {
+          "name": "Durham Clayton",
+          "img": "https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        }
+      ],
+      "about": "Exercitation et pariatur duis anim dolore in consectetur aliquip veniam do proident magna Lorem. Non cillum voluptate ea anim nulla velit culpa laborum minim minim labore velit nostrud incididunt. Incididunt culpa proident eu elit elit reprehenderit magna occaecat in non. Et cupidatat adipisicing sit ipsum reprehenderit quis. Quis cillum eiusmod id qui velit quis fugiat adipisicing exercitation aute. Elit dolore fugiat officia commodo aute cillum. Magna consequat cillum dolore nisi sint cillum aute.\r\n"
+    },
+    {
+      "id": "04",
+      "course_name": "Web Programing",
+      "price": 618,
+      "image": "https://images.pexels.com/photos/7988079/pexels-photo-7988079.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "obtain": 1489,
+      "instructor": [
+        {
+          "name": "Claudette Bernard",
+          "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        }
+      ],
+      "about": "Tempor laboris cillum incididunt dolor nisi quis ipsum proident commodo. Ullamco veniam ea voluptate aliqua consequat sit. Enim fugiat occaecat eiusmod nulla. Excepteur cupidatat pariatur voluptate aliqua ad ipsum sint Lorem reprehenderit sunt Lorem enim est. Culpa enim voluptate enim aute tempor Lorem ex occaecat dolor. Magna ipsum aliqua qui ullamco commodo dolor proident anim ad dolore irure. Exercitation est enim aliquip culpa proident nostrud ipsum.\r\n"
+    },
+    {
+      "id": "05",
+      "course_name": "Data Analysis",
+      "price": 404,
+      "image": "https://images.pexels.com/photos/669610/pexels-photo-669610.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "obtain": 4509,
+      "instructor": [
+        {
+          "name": "Walker Hinton",
+          "img": "https://images.pexels.com/photos/874158/pexels-photo-874158.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        }
+      ],
+      "about": "Aliqua in sit ipsum aliquip incididunt do adipisicing aute fugiat Lorem labore dolore aliqua. Fugiat aliqua qui reprehenderit fugiat sunt nisi incididunt ea labore enim. Nisi Lorem pariatur sint anim eu aute commodo aliquip aliquip fugiat. Excepteur sit culpa voluptate excepteur incididunt. Sint duis occaecat non laboris amet eiusmod. Irure enim laboris irure esse pariatur amet duis consequat. Aliqua ut laborum laborum labore elit enim sint consectetur occaecat.\r\n"
+    },
+    {
+      "id": "06",
+      "course_name": "Networking",
+      "price": 840,
+      "image": "https://images.pexels.com/photos/4425157/pexels-photo-4425157.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "obtain": 4385,
+      "instructor": [
+        {
+          "name": "Abby Lott",
+          "img": "https://images.pexels.com/photos/3778603/pexels-photo-3778603.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        }
+      ],
+      "about": "Ea dolore anim voluptate laboris aliquip exercitation laboris nisi laborum pariatur sint irure. Eiusmod nisi fugiat et nisi veniam et aliquip ipsum id culpa labore irure amet. Culpa amet officia reprehenderit incididunt officia sit incididunt cupidatat Lorem enim laboris eiusmod non. Dolore sit eu nostrud eu incididunt. Aliquip commodo laboris minim adipisicing ut.\r\n"
+    }
+  ]
