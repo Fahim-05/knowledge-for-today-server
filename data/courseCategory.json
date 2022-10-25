@@ -1,0 +1,26 @@
+[
+    {
+      "id": "01",
+      "name": "Artificial Intelligence"
+    },
+    {
+      "id": "02",
+      "name": "Robotics"
+    },
+    {
+      "id": "03",
+      "name": "SQL Server"
+    },
+    {
+      "id": "04",
+      "name": "Web Programing"
+    },
+    {
+      "id": "05",
+      "name": "Data Analysis"
+    },
+    {
+      "id": "08",
+      "name": "All Course"
+    }
+  ]
