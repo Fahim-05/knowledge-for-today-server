@@ -10,18 +10,24 @@ const course = require('./data/course.json');
 
 
 
-app.get('/', (req, res) =>{
+app.get('/', (req, res) => {
     res.send('Knowledge API running')
 })
 
-app.get('/course-options', (req, res) =>{
+app.get('/course-options', (req, res) => {
     res.send(courseOptions);
 });
 
 app.get('/course/:id', (req, res) => {
     const id = req.params.id;
-    const selectedCourse = course.find(course => course.id === id);
-    res.send(selectedCourse);
+    
+    if (id === '00') {
+        res.send(course);
+    }
+    else {
+        const selectedCourse = course.find(course => course.id === id);
+        res.send(selectedCourse);
+    }
 })
 
 app.listen(port, () => {
