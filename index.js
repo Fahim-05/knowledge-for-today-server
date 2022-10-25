@@ -18,9 +18,13 @@ app.get('/course-options', (req, res) => {
     res.send(courseOptions);
 });
 
+app.get('/course', (req, res) => {
+    res.send(course);
+})
+
 app.get('/course/:id', (req, res) => {
     const id = req.params.id;
-    
+
     if (id === '00') {
         res.send(course);
     }
