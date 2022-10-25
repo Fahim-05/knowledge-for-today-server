@@ -24,8 +24,9 @@ app.get('/course', (req, res) => {
 
 app.get('/course/:id', (req, res) => {
     const id = req.params.id;
+    // console.log(id);
 
-    if (id === '00') {
+    if (id === '99') {
         res.send(course);
     }
     else {
